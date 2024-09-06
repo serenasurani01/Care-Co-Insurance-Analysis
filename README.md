@@ -1,5 +1,15 @@
 # Care Co Insurance Analysis
 
+## TLDR
+
+1. **Silver Plan Dominance**: 86% of new customers enrolled in the Silver plan, while 21% of Bronze customers had a loss ratio over 1, making them the least profitable group.
+
+2. **Campaign and Channel Insights**: Top campaigns for signups were #HealthyLiving, Health For All, and #CoverageMatters. Social Media and SEO led in impressions, but Email was more cost-effective, contributing 25% of signups at a lower cost.
+
+3. **Higher Claims in Higher Tiers**: Customers in higher-tier plans had higher average claim amounts and claim frequency, with the most frequently claimed wellness products being the Vitamin B+ Advanced Complex and Hair Growth Supplement.
+
+
+
 ## Overview
 
 Care Co is a fictional health insurance provider that has 4 plan options: bronze, silver, gold and platinum. In 2019, the Wholistic Wellness Initiative was introduced, offering financial reimbursement for a variety of wellness products, including probiotics, daily vitamins, and stress relief supplements. This program is designed to encourage a well-rounded approach to health and well-being for its customers.  
@@ -20,7 +30,13 @@ Customer Behaviour:
   
 Product Performance:  
 - Which wellness products (e.g., probiotics, vitamins, stress relief supplements) are most frequently claimed?  
-- How do claim amounts vary across different products?  
+- How do claim amounts vary across different products?
+
+## Procedure  
+  
+1. Cleaned data on SQL: Imputed missing or zero-click data by assigning the average number of clicks based on impression quartiles.  
+2. SQL Analysis of data on marketing performance, claims analysis and product performance.   
+3. Output data was used for visualization on Tableau.  
 
 ## Campaign Performance:
 
