@@ -12,7 +12,7 @@
 
 ## Overview
 
-Care Co is a fictional health insurance provider that has 4 plan options: bronze, silver, gold and platinum. In 2019, the Wholistic Wellness Initiative was introduced, offering financial reimbursement for a variety of wellness products, including probiotics, daily vitamins, and stress relief supplements. This program is designed to encourage a well-rounded approach to health and well-being for its customers.  
+Care Co is a fictional health insurance provider that has 4 plan options: bronze, silver, gold and platinum. In 2019, the Holistic Wellness Initiative was introduced, offering financial reimbursement for a variety of wellness products, including probiotics, daily vitamins, and stress relief supplements. This program is designed to encourage a well-rounded approach to health and well-being for its customers.  
 
 <img width="186" alt="Plan id Premium" src="https://github.com/user-attachments/assets/da1c7fa0-2696-4c3c-a7b6-abc1c80f6a6e">  
 
