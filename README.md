@@ -41,7 +41,8 @@ Product Performance:
 ## Campaign Performance:
 
 A dashboard with relevant KPIs can be found [here](https://public.tableau.com/app/profile/serena.surani/viz/CareCo/Dashboard1)  
-![WHOLISTIC WELLNESS INITIATIVE MARKETING ANALYSIS (2019 - 2023)](https://github.com/user-attachments/assets/2b17e753-cbdb-4b2d-945d-f97c66c5eed8)
+![image](https://github.com/user-attachments/assets/2c987277-0b68-4775-a795-7d8e70b6cad7)
+
 
 **How do the campaigns perform across various metrics: impressions, click-through rate, and cost per click?**
   
